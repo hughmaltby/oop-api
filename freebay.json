@@ -1,0 +1,34 @@
+{
+  "orders": [
+    {
+      "id": 1,
+      "origin": "freebay",
+      "address": {
+        "line1": "3588 Alessia Shoals",
+        "city": "South Mariahport",
+        "state": "Wisconsin",
+        "country": "Montserrat"
+      }
+    },
+    {
+      "id": 2,
+      "origin": "freebay",
+      "address": {
+        "line1": "002 Schoen Meadow",
+        "city": "Pourosland",
+        "state": "West Virginia",
+        "country": "Israel"
+      }
+    },
+    {
+      "id": 3,
+      "origin": "freebay",
+      "address": {
+        "line1": "901 Fahey Cove",
+        "city": "Eddville",
+        "state": "Nevada",
+        "country": "Greenland"
+      }
+    }
+  ]
+}
