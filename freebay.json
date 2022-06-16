@@ -1,34 +1,37 @@
 {
   "orders": [
     {
-      "id": 1,
-      "origin": "freebay",
-      "address": {
+      "order_id": 1,
+      "source": "freebay",
+      "delivery_address": {
         "line1": "3588 Alessia Shoals",
-        "city": "South Mariahport",
-        "state": "Wisconsin",
-        "country": "Montserrat"
-      }
+        "line2": "South Mariahport",
+        "line3": "Wisconsin",
+        "line4": "Montserrat"
+      },
+      "currency": "GBP"
     },
     {
-      "id": 2,
-      "origin": "freebay",
-      "address": {
+      "order_id": 2,
+      "source": "freebay",
+      "delivery_address": {
         "line1": "002 Schoen Meadow",
-        "city": "Pourosland",
-        "state": "West Virginia",
-        "country": "Israel"
-      }
+        "line2": "Pourosland",
+        "line3": "West Virginia",
+        "line4": "Israel"
+      },
+      "currency": "GBP"
     },
     {
-      "id": 3,
-      "origin": "freebay",
-      "address": {
+      "order_id": 3,
+      "source": "freebay",
+      "delivery_address": {
         "line1": "901 Fahey Cove",
-        "city": "Eddville",
-        "state": "Nevada",
-        "country": "Greenland"
-      }
+        "line2": "Eddville",
+        "line3": "Nevada",
+        "line4": "Greenland"
+      },
+      "currency": "GBP"
     }
   ]
 }

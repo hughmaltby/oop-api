@@ -4,11 +4,12 @@
       "id": 1,
       "origin": "dropify",
       "address": {
-        "line1": "695 Kuhlman Points",
+        "street": "695 Kuhlman Points",
         "city": "Feltonville",
         "state": "Mississippi",
         "country": "Central African Republic"
-      }
+      },
+      "currency_id": 1
     }
   ]
 }
